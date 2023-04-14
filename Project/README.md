@@ -12,6 +12,15 @@ The target audience for MoodMe is anyone who is struggling with poor mental heal
 
 To develop MoodMe, the team will be using the SCRUM model, which allows for the design, development, and testing of multiple versions of the app before releasing the final version. As the project evolves, new features may be added, making SCRUM an ideal model for this project.
 
+## MoodMe goals
+
+1. Mental health is a growing concern: Mental health issues like depression and anxiety are on the rise, and it can be difficult for people to track their moods and identify triggers. An app like MoodMe can help users keep track of their moods and patterns, which can lead to better management of symptoms.
+2. Provides a sense of control: For people struggling with mental health issues, it can often feel like their moods are beyond their control. By tracking their moods, users can take active steps to manage their mental health and improve their quality of life.
+3. Unique features: While there are similar apps available, MoodMe aims to stand out by offering unique features like progress tracking and the ability to document what helped the user feel better. This can provide additional insights and support for the user.
+4. Accessible and convenient: As the app is easily accessible through smartphones, it can be a convenient tool for users to manage their mental health on-the-go, making it more likely that they will consistently use it.
+
+Overall, an app like MoodMe can help users to better understand their moods and triggers, track progress, and take active steps to improve their mental health.
+
 ## The need of MoodMe application
 
 There is growing evidence of the need for mental health apps, particularly due to the increasing rates of mental health issues globally. According to the World Health Organization (WHO), one in four people in the world will be affected by mental or neurological disorders at some point in their lives.
@@ -21,13 +30,6 @@ Research has shown that mental health apps can have a positive impact on various
 Another study published in the Journal of Affective Disorders found that a mobile app designed to improve mood and reduce anxiety was effective in reducing symptoms of both conditions. The study involved 88 participants who used the app for four weeks.
 
 Moreover, the use of mental health apps has increased significantly in recent years, indicating a growing demand for such tools. A report by Research and Markets found that the mental health app market is expected to grow at a CAGR of 24.3% from 2020 to 2027. The report cites factors such as increasing rates of mental health disorders, the growing popularity of smartphones and wearable devices, and the need for more accessible and convenient mental health care.
-
-1. Mental health is a growing concern: Mental health issues like depression and anxiety are on the rise, and it can be difficult for people to track their moods and identify triggers. An app like MoodMe can help users keep track of their moods and patterns, which can lead to better management of symptoms.
-2. Provides a sense of control: For people struggling with mental health issues, it can often feel like their moods are beyond their control. By tracking their moods, users can take active steps to manage their mental health and improve their quality of life.
-3. Unique features: While there are similar apps available, MoodMe aims to stand out by offering unique features like progress tracking and the ability to document what helped the user feel better. This can provide additional insights and support for the user.
-4. Accessible and convenient: As the app is easily accessible through smartphones, it can be a convenient tool for users to manage their mental health on-the-go, making it more likely that they will consistently use it.
-
-Overall, an app like MoodMe can help users to better understand their moods and triggers, track progress, and take active steps to improve their mental health.
 
 ### References:
 
