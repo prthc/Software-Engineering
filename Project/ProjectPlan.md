@@ -1,0 +1,10 @@
+# Software Engineering Project Plan
+
+## What is the focus of the system you will be developing?
+Our proposed system, MoodMe, is a mobile application designed for Android smartphones with the primary objective of helping users monitor and enhance their mental well-being. The user interface enables users to set reminders for their daily tasks, record their moods, and track task completion. This feature is particularly useful for people who struggle with depression and find it challenging to be productive during low moods.
+## Who is the intended target audience of MoodMe?
+The main target audience for MoodMe includes individuals dealing with mental health issues such as anxiety and depression, as well as anyone who wishes to keep track of their mental state. The application is also suitable for students and other individuals who aim to improve their mental health during the current challenging times.
+## What are the components required for MoodMe's storage layer?
+The storage layer of MoodMe is responsible for storing the user's mood information, which is obtained through their input, as well as tracking the daily tasks set by the user. In cases where a user fails to mark a task as complete, it is automatically marked as unfinished. The system then displays the user's progress in graphs and charts to assist them in monitoring their recovery.
+## What are the primary services provided by MoodMe?
+MoodMe provides three essential services, namely the journal, task, and graph sections. The journal service prompts the user to complete a mood questionnaire, which reflects their current emotional state. The task service enables users to set tasks or a to-do list and monitors their completion. The graph and chart services help users visualize their progress and identify patterns in their mood and emotions over a specific period.
