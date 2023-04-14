@@ -1,0 +1,26 @@
+@startuml ExampleUseCase
+' This is an example comment
+left to right direction
+actor customer
+actor clerk
+rectangle checkout {
+  customer -- (checkout)
+  (checkout) .> (payment) : include
+  (help) .> (checkout) : extends
+  (checkout) -- clerk
+}
+@enduml
+
+@startuml ExampleUseCase900
+skinparam dpi 900
+' This is an example comment
+left to right direction
+actor customer
+actor clerk
+rectangle checkout {
+  customer -- (checkout)
+  (checkout) .> (payment) : include
+  (help) .> (checkout) : extends
+  (checkout) -- clerk
+}
+@enduml
