@@ -1,0 +1,22 @@
+``` text
+diff --git a/CheckList.md b/CheckList.md
+index ccb1304..c41a814 100644
+--- a/CheckList.md
++++ b/CheckList.md
+@@ -6,10 +6,10 @@
+ 
+ <!-- Beware if you use some Markdown editors, do not change the '*' to a '-' -->
+ 
+-* [ ] Portfolio 7 Part 1
+-* [ ] Portfolio 7 Part 2
+-* [ ] Portfolio 7 Part 3
+-* [ ] Portfolio 7 Part 4
++* [X] Portfolio 7 Part 1
++* [X] Portfolio 7 Part 2
++* [X] Portfolio 7 Part 3
++* [X] Portfolio 7 Part 4
+ * [ ] Portfolio 7 Part 5
+ * [ ] Portfolio 7 Part 6
+ * [ ] Portfolio 7 Part 7
+ ```
+ 
